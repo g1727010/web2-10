@@ -43,6 +43,23 @@
            <div class="p-3 mb-2 bg-white text-dark">.bg-white</div>
        </section>
      </div>
+     
+     <div class="btn-toolbar" role="toolbar">   
+	<div class="btn-group">
+		<button class="btn btn-default" aria-label="Left Align" type="button">
+			<span class="glyphicon glyphicon-align-left" aria-hidden="true"></span>
+		</button>
+		<button class="btn btn-default" aria-label="Center Align" type="button">
+			<span class="glyphicon glyphicon-align-center" aria-hidden="true"></span>
+		</button>
+		<button class="btn btn-default" aria-label="Right Align" type="button">
+			<span class="glyphicon glyphicon-align-right" aria-hidden="true"></span>
+		</button>
+		<button class="btn btn-default" aria-label="Justify" type="button">
+			<span class="glyphicon glyphicon-align-justify" aria-hidden="true"></span>
+		</button>
+	</div>
+</div>
 
      <script src="http://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
      <script src="http://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
