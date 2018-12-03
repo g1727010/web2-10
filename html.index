@@ -24,13 +24,6 @@
      
      <div class ="container">
        <section>
-         <h1>1つめ</h1>
-         <p>１つめの文章を書きます</p>
-         <h1 id="2nd">2つめ</h1>
-         <p>２つめの文章を書きます</p>
-         <h1 id="3nd">3つめ</h1>
-         <p>３つめの文章を書きます</p>
-         
          <h1>背景色</h1>
            <div class="p-3 mb-2 bg-primary text-white">.bg-primary</div>
            <div class="p-3 mb-2 bg-secondary text-white">.bg-secondary</div>
